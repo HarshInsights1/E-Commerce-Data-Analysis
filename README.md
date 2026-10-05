@@ -428,6 +428,7 @@ The dashboard is intended to provide a visual view of:
 - Payment methods
 - Order status
 - E-commerce KPIs
+  <img width="1406" height="107" alt="Image" src="https://github.com/user-attachments/assets/4cbd71b6-f667-4740-9313-a5222e845f1a" />
 
 
 # Key Insights
