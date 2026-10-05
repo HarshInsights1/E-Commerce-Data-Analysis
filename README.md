@@ -310,7 +310,7 @@ This cleaned dataset was then used for the SQL Server stage.
 
 ---
 
-# 🗄️ Step 6: SQL Server
+# Step 6: SQL Server
 
 A Microsoft SQL Server database named:
 
@@ -342,7 +342,7 @@ df.to_sql(
 
 ---
 
-# 📊 Step 7: SQL Business Analysis
+# Step 7: SQL Business Analysis
 
 The SQL script contains business-oriented queries for analysing the e-commerce dataset.
 
@@ -497,7 +497,7 @@ The cleaned CSV still contains some missing values in fields affected by missing
 
 These values were not artificially replaced with arbitrary values. The notebook documents the cleaning decisions that were actually applied.
 
-# 💼 Project Outcome
+# Project Outcome
 
 This project demonstrates an end-to-end approach to solving a practical data analytics problem:
 
