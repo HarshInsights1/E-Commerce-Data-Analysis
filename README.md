@@ -1,6 +1,6 @@
 # E-Commerce Data Analysis & Power BI Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
 This project is an end-to-end **E-Commerce Data Analytics** project covering data cleaning, feature engineering, SQL analysis, and Power BI reporting.
 
@@ -10,7 +10,7 @@ This project demonstrates a practical data analyst workflow from raw data to bus
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Python** — Data cleaning and feature engineering
 - **Pandas** — Data manipulation
@@ -20,7 +20,7 @@ This project demonstrates a practical data analyst workflow from raw data to bus
 - **Power BI** — Interactive dashboard and visualization
 - **Excel/CSV** — Source and cleaned data
 
-## 🧹 Data Cleaning
+## Data Cleaning
 
 The Python notebook performs several data preparation steps, including:
 
@@ -32,7 +32,7 @@ The Python notebook performs several data preparation steps, including:
 - Standardizing customer, city, and state names
 - Handling missing discounts, phone numbers, and delivery dates
 
-## 📊 Feature Engineering
+## Feature Engineering
 
 The project creates additional analytical fields:
 
@@ -63,7 +63,7 @@ Additional time-based fields include:
 
 ---
 
-## 🗄️ SQL Analysis
+## SQL Analysis
 
 The cleaned dataset is loaded into a SQL Server database named `ecommerce`, with the main table named `orders`.
 
@@ -77,7 +77,7 @@ The SQL script includes analysis such as:
 - Order count by payment mode
 - Identification of cancelled orders
 
-## 📈 Power BI
+## Power BI
 
 The cleaned/processed data is used to create an interactive Power BI dashboard for analyzing e-commerce performance.
 
