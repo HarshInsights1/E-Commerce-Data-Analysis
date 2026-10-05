@@ -1,5 +1,5 @@
 # E-Commerce Data Analysis & Power BI Dashboard
-
+## Dashboard Link: https://app.powerbi.com/groups/me/reports/c53ff023-a42a-470a-a169-979e61b297f9/fc3d6d8c8d8995233e1a?experience=power-bi
 ## Project Overview
 
 This project is an end-to-end **E-Commerce Data Analytics** project covering data cleaning, feature engineering, SQL analysis, and Power BI reporting.
