@@ -506,8 +506,6 @@ This project demonstrates an end-to-end approach to solving a practical data ana
 
 It demonstrates the ability to work across multiple tools commonly used in Data Analyst and Business Intelligence workflows.
 
----
-
 ## Author
 
 **Harsh Negi**  
